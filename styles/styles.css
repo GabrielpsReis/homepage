@@ -62,24 +62,28 @@ nav a {
 
 footer p {
     font-size: 1.2em;
+    color:  #d9c2a3;
+    text-decoration: none;
 }    
 
 .book{
     text-align: center;
-    color: #fcfbfb;
+    color:  #d9c2a3;
     text-decoration: none;
 }
 .join{
     text-align: center;
-    color: #fcfbfb;
+    color:  #d9c2a3;
     text-decoration: none;
 }
 footer a {
     text-align: center;
-    color: #fcfbfb;
+    color:  #d9c2a3#fcfbfb;
     text-decoration: none;
 }
-
+footer {
+    background-color:rgba(20,30,13, .7);
+}
  
 footer p a:hover {
     text-decoration: underline;

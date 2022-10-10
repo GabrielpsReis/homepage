@@ -8,8 +8,11 @@ body {
     margin: 0 auto;
     
 }
-#hero-img{
+#hero {
     text-align: center;
+}
+#hero-img{
+   
     max-width: 100%;
 }
 

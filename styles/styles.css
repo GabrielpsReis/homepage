@@ -38,7 +38,9 @@ nav a {
     text-align: center;
 }
 div a {
+    text-align: center;
     color:  #d9c2a3;
+    text-decoration: none;
 }
 div{
     text-align: center;

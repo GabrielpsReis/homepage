@@ -37,11 +37,14 @@ nav a {
 .button-box{
     text-align: center;
 }
+div a {
+    background-color:  #d9c2a3;
+}
 div{
     text-align: center;
     max-width: 1600px;
     margin: 0 auto;
-    background-color: rgba(20,30,13, .7)
+    
 }
 
 footer p {

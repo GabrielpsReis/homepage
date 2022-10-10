@@ -1,58 +1,6 @@
-
-
-img {
-    
-    margin: 0 auto;
-    max-width: 1600px;
+#background {
+    height: 725px;
 }
-main{ 
-    margin: 0 auto;
-    max-width: 300px;
-}
-div {
-    text-align: center;
-}
-
-nav a {
-    text-align: center;
-}
-#hero-msg h1, #hero-msg h4 {
-    text-align: center;
-}
-.button-box {
-    text-align: center;
-}
-h2{
-    text-align: center;
-}
-main{
-    text-align: center;
-}
-
-footer p a:hover {
-    text-decoration: underline;
-}    
-
-footer p {
-    font-size: 1.2em;
-}    
-             
-nav a {
-    text-align: center;
-    color: #fcfbfb;
-    text-decoration: none;
-}    
-
-
-.icon {
-    width: 80px;
-}
-
-nav a:hover {
-    background-color: black;
-    color: #d9c2a3;
-}       
-
 body {
     background-color: #fcfbfb; 
 }
@@ -62,10 +10,21 @@ header {
 nav a:hover {
     background-color: black;
 }
-                
-#background {
-    height: 725px;
+        
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+
+.icon {
+    width: 80px;
 }
-.msg {
-    background-color:rgba(20,30,13, .7);
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
 }   
+footer p {
+    font-size: 1.2em;
+}    
+       

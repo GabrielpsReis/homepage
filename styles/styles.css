@@ -8,9 +8,7 @@ body {
     margin: 0 auto;
     
 }
-#hero {
-    text-align: center;
-}
+
 #hero-img{
    
     max-width: 100%;
@@ -19,6 +17,7 @@ body {
 div #content{
     max-width: 1600px;
     margin: 0 auto;
+    text-align: center;
     
 }
 

@@ -80,10 +80,9 @@ footer a {
     text-align: center;
     color:  #d9c2a3#fcfbfb;
     text-decoration: none;
-}
-footer {
     background-color:rgba(20,30,13, .7);
 }
+
  
 footer p a:hover {
     text-decoration: underline;

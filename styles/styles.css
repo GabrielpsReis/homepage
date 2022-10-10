@@ -6,8 +6,13 @@ body {
     background-color: #fcfbfb; 
     text-align: center;
 
-
 }
+
+div{ 
+    margin: 0 auto;
+    max-width: 300px;
+}
+
 h2{
     text-align: center;
 }

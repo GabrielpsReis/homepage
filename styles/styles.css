@@ -38,7 +38,9 @@ nav a {
     text-align: center;
 }
 div {
-    text-align: center;
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
 }
 div a {
     text-align: center;

@@ -39,9 +39,14 @@ div{
     max-width: 1600px;
     margin: 0 auto;
 }
-main section img{
+main img{
     text-align: center;
     max-width: 300px;
+    
+}
+main section {
+    text-align: center;
+
     
 }
 footer p {

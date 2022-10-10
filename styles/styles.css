@@ -11,6 +11,11 @@ div {
     margin: 0 auto;
     max-width: 1600px;
 }
+main {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 300px;
+}
 h2{
     text-align: center;
 }

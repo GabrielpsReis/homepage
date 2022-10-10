@@ -6,7 +6,7 @@ body {
     background-color: #fcfbfb; 
     
 }
-div {
+div #hero{
     text-align: center;
     margin: 0 auto;
     max-width: 1600px;

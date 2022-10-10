@@ -6,12 +6,17 @@ body {
     background-color: #fcfbfb; 
     
 }
-#hero-img{
+div #hero-img{
     text-align: center;
     margin: 0 auto;
-    width: 100%;
+    max-width: 1600px;
 }
+main section {
+    text-align: center;
+    margin: 0 auto;
+    width: ;
 
+}
 h2{
     text-align: center;
 }

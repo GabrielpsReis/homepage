@@ -4,6 +4,10 @@
 }
 body {
     background-color: #fcfbfb; 
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+
 }
 h2{
     text-align: center;
@@ -37,11 +41,7 @@ nav a {
 .button-box{
     text-align: center;
 }
-div {
-    display: block;
-    margin: 0 auto;
-    max-width: 300px;
-}
+
 
 
 footer p {

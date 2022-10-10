@@ -26,6 +26,9 @@ nav a {
 h2{
     text-align: center;
 }
+main{
+    text-align: center;
+}
 
 footer p a:hover {
     text-decoration: underline;

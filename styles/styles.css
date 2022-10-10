@@ -4,15 +4,13 @@
 }
 body {
     background-color: #fcfbfb; 
+    
+}
+div {
     text-align: center;
-
-}
-
-div{ 
     margin: 0 auto;
-    max-width: 300px;
+    max-width: 1600px;
 }
-
 h2{
     text-align: center;
 }
